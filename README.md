@@ -5,3 +5,12 @@ The code parses through the csv file "AFL-2022-totals.csv" and produces the foll
 3. Correlation Matrix for Explanatory Features (Features other than Brownlow Votes)
 4. Table Containing Results of Supervised Learning Models
 5. A Q-Q Plot of residuals for linear regression model
+
+# Any additional requirements needed to run code.
+Python3 and the following modules must be installed:
+
+	pandas
+	numpy 
+	matplotlib
+	sklearn
+	scipy
