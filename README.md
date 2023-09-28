@@ -6,6 +6,9 @@ The code parses through the csv file "AFL-2022-totals.csv" and produces the foll
 4. Table Containing Results of Supervised Learning Models
 5. A Q-Q Plot of residuals for linear regression model
 
+Then, Supervised learning techniques are used to determine if predictive models can be developed.
+
+
 # Instructions on how to run your code.
 The supplied dataset must be contained in a CSV file in the same directory as the code titled "AFL-2022-totals.csv"
 
